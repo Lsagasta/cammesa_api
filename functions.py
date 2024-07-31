@@ -1,5 +1,8 @@
 import requests
-
+import sys
+import json
+from datetime import datetime
+#Conectar a API
 def conection(url):
     try:
         response= requests.get(url)
@@ -9,7 +12,15 @@ def conection(url):
         return response, data
     
     except requests.exceptions.RequestException as e:
-        print(f"Error en la conexíon a la API: {e}")
-        return None, None
+        print(f"Error en la conexión a la API: {e}")
+        sys.exit(1)  
+
+# Guardar archivo JSON
+def save_json(data):
+    fecha = datetime.today().strftime('%Y-%m-%d')
+    with open(f"generacion-electrica-{fecha}.json", 'w') as archivo:
+        json.dump(data, archivo, indent=4)
+
+
 
 
