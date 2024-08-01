@@ -21,7 +21,7 @@ def conection(url):
 # Guardar archivo JSON
 def save_json(data):
     fecha = datetime.today().strftime('%Y-%m-%d')
-    with open(f"generacion-electrica-{fecha}.json", 'w') as archivo:
+    with open(f"jsons/generacion-electrica-{fecha}.json", 'w') as archivo:
         json.dump(data, archivo, indent=4)
 
 
