@@ -16,8 +16,7 @@ CAMMESA es una compañía argentina encargada de operar el mercado eléctrico ma
     "renovable": 2275.3,
     "importacion": 2088.2
 }
-
-
+```
 
 ## Documentación
 Para más detalles sobre el uso de esta API, consulta la documentación oficial de CAMMESA.
