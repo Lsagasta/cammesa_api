@@ -2,7 +2,9 @@ import requests
 import sys
 import json
 from datetime import datetime
+import csv
 
+fecha = datetime.today().strftime('%Y-%m-%d')
 
 
 #Conectar a API
@@ -20,9 +22,15 @@ def conection(url):
 
 # Guardar archivo JSON
 def save_json(data):
-    fecha = datetime.today().strftime('%Y-%m-%d')
     with open(f"jsons/generacion-electrica-{fecha}.json", 'w') as archivo:
         json.dump(data, archivo, indent=4)
+    
+def save_csv(data):
+    with open('csvs/generacion-electrica{fecha}.csv', 'w', newline='') as csvfile:
+        fieldnames = ["fecha", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
 
 
 
