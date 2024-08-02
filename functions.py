@@ -1,11 +1,15 @@
 import requests
 import sys
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import csv
 
-fecha = datetime.today().strftime('%Y-%m-%d-%H-%M')
-print(fecha)
+
+# Obtener hora de ejecución para insertar en el nombre del archivo
+utc_now = datetime.now(timezone.utc)
+utc_minus_3 = utc_now - timedelta(hours=3)
+fecha = utc_minus_3.strftime('%Y-%m-%d-%H-%M')
+
 
 #Conectar a API
 def conection(url):
