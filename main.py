@@ -4,7 +4,7 @@ from functions import conection, save_json, save_csv
 #defino la URL de la API que quiero consultar
 api_url = "https://api.cammesa.com/demanda-svc/generacion/ObtieneGeneracioEnergiaPorRegion?id_region=1002"
 
-# guardo la respuestas obtenidas. 
+# ejecuto la conexión y guardo las respuestas obtenidas. 
 response, data = conection(api_url)
 
 

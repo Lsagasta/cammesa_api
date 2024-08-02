@@ -4,8 +4,8 @@ import json
 from datetime import datetime
 import csv
 
-fecha = datetime.today().strftime('%Y-%m-%d')
-
+fecha = datetime.today().strftime('%Y-%m-%d-%H-%M')
+print(fecha)
 
 #Conectar a API
 def conection(url):
