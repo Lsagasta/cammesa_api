@@ -24,9 +24,10 @@ def conection(url):
 def save_json(data):
     with open(f"jsons/generacion-electrica-{fecha}.json", 'w') as archivo:
         json.dump(data, archivo, indent=4)
-    
+
+#Guardar archivo CSV
 def save_csv(data):
-    with open('csvs/generacion-electrica{fecha}.csv', 'w', newline='') as csvfile:
+    with open(f'csvs/generacion-electrica{fecha}.csv', 'w', newline='') as csvfile:
         fieldnames = ["fecha", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
