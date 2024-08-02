@@ -1,0 +1,27 @@
+name: pipeline-arg
+on:
+  schedule:
+    - cron: '40 10 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: run script
+        run: python ./main.py
+
+      - name: commit and push files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update files
