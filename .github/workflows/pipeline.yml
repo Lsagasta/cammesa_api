@@ -1,0 +1,26 @@
+name: pipeline
+  on:
+    schedule:
+      -cron: '25 10 * * *'
+
+  jobs:
+    build:
+      runs-on:ubuntu-latest
+
+  steps:
+    -name: checkout repo
+    uses: actions/checkout@v4
+
+    -name: Setup Python
+    uses: actions/setup-python@v5
+    whit:
+      python-version: '3.11'
+
+    -name: run script
+    run: python ./main.py
+
+    -name: commit and push files
+    uses: stefanzweifel/git-auto-commit-action@v5
+      whith:
+        commit_message: Update files
+    
