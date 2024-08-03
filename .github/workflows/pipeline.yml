@@ -1,7 +1,7 @@
 name: pipeline
 on:
   schedule:
-    - cron: '57,02 23,00 * * *'
+    - cron: '57,02 20,21 * * *'
 
 jobs:
   build:
