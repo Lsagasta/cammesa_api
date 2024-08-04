@@ -1,0 +1,11 @@
+[
+    {
+        "fecha": "2024-08-04T00:00:00.000-0300",
+        "sumTotal": 14872.0,
+        "hidraulico": 3335.8,
+        "termico": 7823.0,
+        "nuclear": 1015.1,
+        "renovable": 2688.1,
+        "importacion": 10.0
+    }
+]
