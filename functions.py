@@ -3,6 +3,9 @@ import sys
 import json
 from datetime import datetime, timedelta, timezone
 import csv
+from decouple import config
+import psycopg2
+
 
 
 # Obtener hora de ejecución para insertar en el nombre del archivo
@@ -32,10 +35,32 @@ def save_json(data):
 #Guardar archivo CSV
 def save_csv(data):
     with open(f'csvs/generacion-electrica{fecha}.csv', 'w', newline='') as csvfile:
-        fieldnames = ["fecha", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
+        fieldnames = ["timestamp", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(data)
+
+
+# Redshift Conection
+def conection():
+    try:
+        conn = psycopg2.connect(
+            host = config("host"),
+            port = config("port"),
+            database = config("database"),
+            user = config("user"),
+            password = config("password")
+            )
+        print("Conexion realizada")
+        return conn
+    
+    except Exception as e:
+        print("No se a podido conectar a la base de datos")
+        print(e)
+
+
+
+
 
 
 
