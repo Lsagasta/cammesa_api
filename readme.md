@@ -2,6 +2,8 @@
 
 Este repositorio permite conectarse a la API de CAMMESA (Compañía Administradora del Mercado Mayorista Eléctrico Sociedad Anónima) para obtener datos de la generación eléctrica total del país en intervalos de 5 minutos.
 
+La API es pública, por lo que no es necesario utilizar credenciales.
+
 ## Descripción
 
 CAMMESA es una compañía argentina encargada de operar el mercado eléctrico mayorista de Argentina. La API proporciona datos detallados sobre la generación eléctrica, desglosada de la siguiente forma:
