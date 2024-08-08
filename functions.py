@@ -3,7 +3,7 @@ import sys
 import json
 from datetime import datetime, timedelta, timezone
 import csv
-from decouple import config
+
 import psycopg2
 
 
@@ -35,14 +35,14 @@ def save_json(data):
 #Guardar archivo CSV
 def save_csv(data):
     with open(f'csvs/generacion-electrica{fecha}.csv', 'w', newline='') as csvfile:
-        fieldnames = ["timestamp", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
+        fieldnames = ["fecha", "sumTotal", "hidraulico", "termico", "nuclear", "renovable", "importacion"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(data)
 
 
-# Redshift Conection
-def conection():
+# Probando conexion a redshift
+def redshift_conection():
     try:
         conn = psycopg2.connect(
             host = config("host"),

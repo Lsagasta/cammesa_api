@@ -19,4 +19,7 @@ CAMMESA es una compañía argentina encargada de operar el mercado eléctrico ma
 ```
 
 ## Documentación
-Para más detalles sobre el uso de esta API, consulta la documentación oficial de CAMMESA.
+Para más detalles sobre el uso de esta API, consultar la documentación oficial de CAMMESA:
+https://microfe.cammesa.com/static-content/CammesaWeb/download-manager-files/Api/Documentacion%20API%20Web.pdf
+
+
