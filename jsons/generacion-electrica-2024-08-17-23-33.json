@@ -1,0 +1,2540 @@
+[
+    {
+        "fecha": "2024-08-17T00:00:00.000-0300",
+        "sumTotal": 18000.1,
+        "hidraulico": 4419.4,
+        "termico": 9170.7,
+        "nuclear": 1014.4,
+        "renovable": 2121.7,
+        "importacion": 1273.9
+    },
+    {
+        "fecha": "2024-08-17T00:05:00.000-0300",
+        "sumTotal": 17644.3,
+        "hidraulico": 4125.6,
+        "termico": 9133.2,
+        "nuclear": 1015.2,
+        "renovable": 2109.9,
+        "importacion": 1260.4
+    },
+    {
+        "fecha": "2024-08-17T00:10:00.000-0300",
+        "sumTotal": 17571.8,
+        "hidraulico": 4065.4,
+        "termico": 9123.3,
+        "nuclear": 1014.5,
+        "renovable": 2109.6,
+        "importacion": 1259.0
+    },
+    {
+        "fecha": "2024-08-17T00:15:00.000-0300",
+        "sumTotal": 17608.0,
+        "hidraulico": 4116.9,
+        "termico": 9120.9,
+        "nuclear": 1014.4,
+        "renovable": 2094.1,
+        "importacion": 1261.7
+    },
+    {
+        "fecha": "2024-08-17T00:20:00.000-0300",
+        "sumTotal": 17581.0,
+        "hidraulico": 4152.7,
+        "termico": 9066.0,
+        "nuclear": 1018.1,
+        "renovable": 2071.6,
+        "importacion": 1272.6
+    },
+    {
+        "fecha": "2024-08-17T00:25:00.000-0300",
+        "sumTotal": 17467.3,
+        "hidraulico": 4074.2,
+        "termico": 9017.1,
+        "nuclear": 1012.1,
+        "renovable": 2090.4,
+        "importacion": 1273.5
+    },
+    {
+        "fecha": "2024-08-17T00:30:00.000-0300",
+        "sumTotal": 17398.4,
+        "hidraulico": 3989.4,
+        "termico": 9010.8,
+        "nuclear": 1013.7,
+        "renovable": 2103.6,
+        "importacion": 1280.9
+    },
+    {
+        "fecha": "2024-08-17T00:35:00.000-0300",
+        "sumTotal": 17298.3,
+        "hidraulico": 3891.8,
+        "termico": 8955.9,
+        "nuclear": 1015.9,
+        "renovable": 2131.4,
+        "importacion": 1303.3
+    },
+    {
+        "fecha": "2024-08-17T00:40:00.000-0300",
+        "sumTotal": 17057.1,
+        "hidraulico": 3788.1,
+        "termico": 8780.7,
+        "nuclear": 1014.8,
+        "renovable": 2160.8,
+        "importacion": 1312.7
+    },
+    {
+        "fecha": "2024-08-17T00:45:00.000-0300",
+        "sumTotal": 16995.0,
+        "hidraulico": 3921.9,
+        "termico": 8566.9,
+        "nuclear": 1011.4,
+        "renovable": 2185.3,
+        "importacion": 1309.5
+    },
+    {
+        "fecha": "2024-08-17T00:50:00.000-0300",
+        "sumTotal": 16848.1,
+        "hidraulico": 4046.4,
+        "termico": 8308.5,
+        "nuclear": 1017.0,
+        "renovable": 2163.9,
+        "importacion": 1312.3
+    },
+    {
+        "fecha": "2024-08-17T00:55:00.000-0300",
+        "sumTotal": 16594.2,
+        "hidraulico": 3976.5,
+        "termico": 8140.2,
+        "nuclear": 1012.3,
+        "renovable": 2164.8,
+        "importacion": 1300.4
+    },
+    {
+        "fecha": "2024-08-17T01:00:00.000-0300",
+        "sumTotal": 16452.7,
+        "hidraulico": 3871.5,
+        "termico": 8056.0,
+        "nuclear": 1016.9,
+        "renovable": 2173.8,
+        "importacion": 1334.5
+    },
+    {
+        "fecha": "2024-08-17T01:05:00.000-0300",
+        "sumTotal": 16558.4,
+        "hidraulico": 3875.3,
+        "termico": 8078.2,
+        "nuclear": 1015.8,
+        "renovable": 2149.3,
+        "importacion": 1439.8
+    },
+    {
+        "fecha": "2024-08-17T01:10:00.000-0300",
+        "sumTotal": 16383.7,
+        "hidraulico": 3758.2,
+        "termico": 8027.9,
+        "nuclear": 1012.4,
+        "renovable": 2124.8,
+        "importacion": 1460.4
+    },
+    {
+        "fecha": "2024-08-17T01:15:00.000-0300",
+        "sumTotal": 16398.0,
+        "hidraulico": 3809.7,
+        "termico": 8018.9,
+        "nuclear": 1012.3,
+        "renovable": 2089.9,
+        "importacion": 1467.2
+    },
+    {
+        "fecha": "2024-08-17T01:20:00.000-0300",
+        "sumTotal": 16331.1,
+        "hidraulico": 3814.3,
+        "termico": 7943.4,
+        "nuclear": 1012.1,
+        "renovable": 2071.1,
+        "importacion": 1490.2
+    },
+    {
+        "fecha": "2024-08-17T01:25:00.000-0300",
+        "sumTotal": 16098.7,
+        "hidraulico": 3612.5,
+        "termico": 7941.4,
+        "nuclear": 1013.7,
+        "renovable": 2036.6,
+        "importacion": 1494.5
+    },
+    {
+        "fecha": "2024-08-17T01:30:00.000-0300",
+        "sumTotal": 16058.3,
+        "hidraulico": 3611.1,
+        "termico": 7935.2,
+        "nuclear": 1015.4,
+        "renovable": 1995.3,
+        "importacion": 1501.3
+    },
+    {
+        "fecha": "2024-08-17T01:35:00.000-0300",
+        "sumTotal": 15905.7,
+        "hidraulico": 3436.2,
+        "termico": 7917.1,
+        "nuclear": 1011.6,
+        "renovable": 2002.3,
+        "importacion": 1538.5
+    },
+    {
+        "fecha": "2024-08-17T01:40:00.000-0300",
+        "sumTotal": 15784.2,
+        "hidraulico": 3281.1,
+        "termico": 7945.9,
+        "nuclear": 1012.5,
+        "renovable": 2014.7,
+        "importacion": 1530.0
+    },
+    {
+        "fecha": "2024-08-17T01:45:00.000-0300",
+        "sumTotal": 15727.2,
+        "hidraulico": 3221.0,
+        "termico": 7941.4,
+        "nuclear": 1017.9,
+        "renovable": 1988.0,
+        "importacion": 1558.9
+    },
+    {
+        "fecha": "2024-08-17T01:50:00.000-0300",
+        "sumTotal": 15599.0,
+        "hidraulico": 3136.5,
+        "termico": 7880.9,
+        "nuclear": 1019.1,
+        "renovable": 1996.8,
+        "importacion": 1565.7
+    },
+    {
+        "fecha": "2024-08-17T01:55:00.000-0300",
+        "sumTotal": 15458.7,
+        "hidraulico": 3033.8,
+        "termico": 7823.6,
+        "nuclear": 1019.1,
+        "renovable": 2015.9,
+        "importacion": 1566.3
+    },
+    {
+        "fecha": "2024-08-17T02:00:00.000-0300",
+        "sumTotal": 15441.8,
+        "hidraulico": 3040.0,
+        "termico": 7784.7,
+        "nuclear": 1012.9,
+        "renovable": 2027.4,
+        "importacion": 1576.8
+    },
+    {
+        "fecha": "2024-08-17T02:05:00.000-0300",
+        "sumTotal": 15392.9,
+        "hidraulico": 3028.8,
+        "termico": 7759.8,
+        "nuclear": 1015.6,
+        "renovable": 2015.0,
+        "importacion": 1573.7
+    },
+    {
+        "fecha": "2024-08-17T02:10:00.000-0300",
+        "sumTotal": 15272.1,
+        "hidraulico": 2907.4,
+        "termico": 7766.9,
+        "nuclear": 1018.3,
+        "renovable": 1977.5,
+        "importacion": 1602.0
+    },
+    {
+        "fecha": "2024-08-17T02:15:00.000-0300",
+        "sumTotal": 15224.7,
+        "hidraulico": 2952.7,
+        "termico": 7737.9,
+        "nuclear": 1019.2,
+        "renovable": 1916.4,
+        "importacion": 1598.5
+    },
+    {
+        "fecha": "2024-08-17T02:20:00.000-0300",
+        "sumTotal": 15129.7,
+        "hidraulico": 2887.2,
+        "termico": 7715.5,
+        "nuclear": 1016.3,
+        "renovable": 1910.8,
+        "importacion": 1599.9
+    },
+    {
+        "fecha": "2024-08-17T02:25:00.000-0300",
+        "sumTotal": 15084.7,
+        "hidraulico": 2820.4,
+        "termico": 7747.3,
+        "nuclear": 1012.3,
+        "renovable": 1907.6,
+        "importacion": 1597.1
+    },
+    {
+        "fecha": "2024-08-17T02:30:00.000-0300",
+        "sumTotal": 15222.3,
+        "hidraulico": 2979.3,
+        "termico": 7717.0,
+        "nuclear": 1017.1,
+        "renovable": 1897.8,
+        "importacion": 1611.1
+    },
+    {
+        "fecha": "2024-08-17T02:35:00.000-0300",
+        "sumTotal": 15140.6,
+        "hidraulico": 2898.1,
+        "termico": 7727.3,
+        "nuclear": 1014.4,
+        "renovable": 1902.5,
+        "importacion": 1598.3
+    },
+    {
+        "fecha": "2024-08-17T02:40:00.000-0300",
+        "sumTotal": 15063.8,
+        "hidraulico": 2839.1,
+        "termico": 7746.1,
+        "nuclear": 1019.8,
+        "renovable": 1888.0,
+        "importacion": 1570.8
+    },
+    {
+        "fecha": "2024-08-17T02:45:00.000-0300",
+        "sumTotal": 14998.3,
+        "hidraulico": 2745.6,
+        "termico": 7757.1,
+        "nuclear": 1021.5,
+        "renovable": 1885.4,
+        "importacion": 1588.7
+    },
+    {
+        "fecha": "2024-08-17T02:50:00.000-0300",
+        "sumTotal": 14967.6,
+        "hidraulico": 2747.9,
+        "termico": 7738.4,
+        "nuclear": 1019.1,
+        "renovable": 1881.8,
+        "importacion": 1580.4
+    },
+    {
+        "fecha": "2024-08-17T02:55:00.000-0300",
+        "sumTotal": 14934.3,
+        "hidraulico": 2730.0,
+        "termico": 7738.0,
+        "nuclear": 1019.5,
+        "renovable": 1868.9,
+        "importacion": 1577.9
+    },
+    {
+        "fecha": "2024-08-17T03:00:00.000-0300",
+        "sumTotal": 14980.7,
+        "hidraulico": 2772.2,
+        "termico": 7742.9,
+        "nuclear": 1015.0,
+        "renovable": 1868.3,
+        "importacion": 1582.3
+    },
+    {
+        "fecha": "2024-08-17T03:05:00.000-0300",
+        "sumTotal": 14963.6,
+        "hidraulico": 2770.4,
+        "termico": 7735.8,
+        "nuclear": 1014.1,
+        "renovable": 1855.2,
+        "importacion": 1588.1
+    },
+    {
+        "fecha": "2024-08-17T03:10:00.000-0300",
+        "sumTotal": 14878.5,
+        "hidraulico": 2684.8,
+        "termico": 7750.8,
+        "nuclear": 1017.1,
+        "renovable": 1838.6,
+        "importacion": 1587.2
+    },
+    {
+        "fecha": "2024-08-17T03:15:00.000-0300",
+        "sumTotal": 14833.9,
+        "hidraulico": 2667.7,
+        "termico": 7742.9,
+        "nuclear": 1015.9,
+        "renovable": 1818.3,
+        "importacion": 1589.1
+    },
+    {
+        "fecha": "2024-08-17T03:20:00.000-0300",
+        "sumTotal": 14752.5,
+        "hidraulico": 2615.9,
+        "termico": 7711.0,
+        "nuclear": 1020.1,
+        "renovable": 1788.5,
+        "importacion": 1617.0
+    },
+    {
+        "fecha": "2024-08-17T03:25:00.000-0300",
+        "sumTotal": 14703.6,
+        "hidraulico": 2572.3,
+        "termico": 7724.0,
+        "nuclear": 1018.3,
+        "renovable": 1779.0,
+        "importacion": 1610.0
+    },
+    {
+        "fecha": "2024-08-17T03:30:00.000-0300",
+        "sumTotal": 14662.6,
+        "hidraulico": 2573.2,
+        "termico": 7691.3,
+        "nuclear": 1021.5,
+        "renovable": 1779.4,
+        "importacion": 1597.2
+    },
+    {
+        "fecha": "2024-08-17T03:35:00.000-0300",
+        "sumTotal": 14643.8,
+        "hidraulico": 2574.8,
+        "termico": 7644.5,
+        "nuclear": 1020.1,
+        "renovable": 1811.5,
+        "importacion": 1592.9
+    },
+    {
+        "fecha": "2024-08-17T03:40:00.000-0300",
+        "sumTotal": 14646.2,
+        "hidraulico": 2580.5,
+        "termico": 7655.6,
+        "nuclear": 1019.7,
+        "renovable": 1806.6,
+        "importacion": 1583.8
+    },
+    {
+        "fecha": "2024-08-17T03:45:00.000-0300",
+        "sumTotal": 14655.9,
+        "hidraulico": 2571.7,
+        "termico": 7722.7,
+        "nuclear": 1018.9,
+        "renovable": 1767.0,
+        "importacion": 1575.6
+    },
+    {
+        "fecha": "2024-08-17T03:50:00.000-0300",
+        "sumTotal": 14665.3,
+        "hidraulico": 2564.6,
+        "termico": 7745.9,
+        "nuclear": 1020.3,
+        "renovable": 1723.1,
+        "importacion": 1611.4
+    },
+    {
+        "fecha": "2024-08-17T03:55:00.000-0300",
+        "sumTotal": 14621.2,
+        "hidraulico": 2512.1,
+        "termico": 7742.6,
+        "nuclear": 1019.9,
+        "renovable": 1735.8,
+        "importacion": 1610.8
+    },
+    {
+        "fecha": "2024-08-17T04:00:00.000-0300",
+        "sumTotal": 14630.9,
+        "hidraulico": 2528.2,
+        "termico": 7745.6,
+        "nuclear": 1021.6,
+        "renovable": 1712.4,
+        "importacion": 1623.1
+    },
+    {
+        "fecha": "2024-08-17T04:05:00.000-0300",
+        "sumTotal": 14570.5,
+        "hidraulico": 2373.4,
+        "termico": 7721.9,
+        "nuclear": 1021.9,
+        "renovable": 1692.5,
+        "importacion": 1760.8
+    },
+    {
+        "fecha": "2024-08-17T04:10:00.000-0300",
+        "sumTotal": 14609.5,
+        "hidraulico": 2355.4,
+        "termico": 7678.3,
+        "nuclear": 1022.2,
+        "renovable": 1707.7,
+        "importacion": 1845.9
+    },
+    {
+        "fecha": "2024-08-17T04:15:00.000-0300",
+        "sumTotal": 14715.8,
+        "hidraulico": 2320.8,
+        "termico": 7738.1,
+        "nuclear": 1020.0,
+        "renovable": 1711.3,
+        "importacion": 1925.6
+    },
+    {
+        "fecha": "2024-08-17T04:20:00.000-0300",
+        "sumTotal": 14701.9,
+        "hidraulico": 2259.5,
+        "termico": 7752.9,
+        "nuclear": 1021.3,
+        "renovable": 1727.1,
+        "importacion": 1941.1
+    },
+    {
+        "fecha": "2024-08-17T04:25:00.000-0300",
+        "sumTotal": 14659.3,
+        "hidraulico": 2255.1,
+        "termico": 7765.5,
+        "nuclear": 1016.5,
+        "renovable": 1674.1,
+        "importacion": 1948.1
+    },
+    {
+        "fecha": "2024-08-17T04:30:00.000-0300",
+        "sumTotal": 14701.1,
+        "hidraulico": 2351.2,
+        "termico": 7754.6,
+        "nuclear": 1018.4,
+        "renovable": 1629.3,
+        "importacion": 1947.6
+    },
+    {
+        "fecha": "2024-08-17T04:35:00.000-0300",
+        "sumTotal": 14706.4,
+        "hidraulico": 2367.7,
+        "termico": 7805.3,
+        "nuclear": 1019.7,
+        "renovable": 1573.0,
+        "importacion": 1940.7
+    },
+    {
+        "fecha": "2024-08-17T04:40:00.000-0300",
+        "sumTotal": 14652.7,
+        "hidraulico": 2354.4,
+        "termico": 7773.5,
+        "nuclear": 1017.3,
+        "renovable": 1546.7,
+        "importacion": 1960.8
+    },
+    {
+        "fecha": "2024-08-17T04:45:00.000-0300",
+        "sumTotal": 14658.2,
+        "hidraulico": 2410.4,
+        "termico": 7737.7,
+        "nuclear": 1016.9,
+        "renovable": 1517.2,
+        "importacion": 1976.0
+    },
+    {
+        "fecha": "2024-08-17T04:50:00.000-0300",
+        "sumTotal": 14643.6,
+        "hidraulico": 2383.0,
+        "termico": 7755.0,
+        "nuclear": 1019.3,
+        "renovable": 1509.2,
+        "importacion": 1977.1
+    },
+    {
+        "fecha": "2024-08-17T04:55:00.000-0300",
+        "sumTotal": 14648.8,
+        "hidraulico": 2396.6,
+        "termico": 7748.3,
+        "nuclear": 1020.6,
+        "renovable": 1496.0,
+        "importacion": 1987.3
+    },
+    {
+        "fecha": "2024-08-17T05:00:00.000-0300",
+        "sumTotal": 14536.3,
+        "hidraulico": 2257.9,
+        "termico": 7760.8,
+        "nuclear": 1020.3,
+        "renovable": 1496.8,
+        "importacion": 2000.5
+    },
+    {
+        "fecha": "2024-08-17T05:05:00.000-0300",
+        "sumTotal": 14534.6,
+        "hidraulico": 2275.8,
+        "termico": 7760.0,
+        "nuclear": 1019.5,
+        "renovable": 1498.8,
+        "importacion": 1980.5
+    },
+    {
+        "fecha": "2024-08-17T05:10:00.000-0300",
+        "sumTotal": 14615.6,
+        "hidraulico": 2296.3,
+        "termico": 7750.8,
+        "nuclear": 1023.6,
+        "renovable": 1535.3,
+        "importacion": 2009.6
+    },
+    {
+        "fecha": "2024-08-17T05:15:00.000-0300",
+        "sumTotal": 14590.6,
+        "hidraulico": 2251.3,
+        "termico": 7757.3,
+        "nuclear": 1021.2,
+        "renovable": 1545.8,
+        "importacion": 2015.0
+    },
+    {
+        "fecha": "2024-08-17T05:20:00.000-0300",
+        "sumTotal": 14609.7,
+        "hidraulico": 2281.5,
+        "termico": 7695.3,
+        "nuclear": 1022.2,
+        "renovable": 1624.3,
+        "importacion": 1986.4
+    },
+    {
+        "fecha": "2024-08-17T05:25:00.000-0300",
+        "sumTotal": 14534.1,
+        "hidraulico": 2192.3,
+        "termico": 7714.2,
+        "nuclear": 1025.3,
+        "renovable": 1634.0,
+        "importacion": 1968.3
+    },
+    {
+        "fecha": "2024-08-17T05:30:00.000-0300",
+        "sumTotal": 14503.8,
+        "hidraulico": 1961.7,
+        "termico": 7816.9,
+        "nuclear": 1022.3,
+        "renovable": 1677.6,
+        "importacion": 2025.3
+    },
+    {
+        "fecha": "2024-08-17T05:35:00.000-0300",
+        "sumTotal": 14497.8,
+        "hidraulico": 1966.4,
+        "termico": 7823.9,
+        "nuclear": 1017.3,
+        "renovable": 1665.9,
+        "importacion": 2024.3
+    },
+    {
+        "fecha": "2024-08-17T05:40:00.000-0300",
+        "sumTotal": 14332.0,
+        "hidraulico": 1968.1,
+        "termico": 7756.7,
+        "nuclear": 1020.7,
+        "renovable": 1639.4,
+        "importacion": 1947.1
+    },
+    {
+        "fecha": "2024-08-17T05:45:00.000-0300",
+        "sumTotal": 14268.6,
+        "hidraulico": 1975.9,
+        "termico": 7762.6,
+        "nuclear": 1023.2,
+        "renovable": 1662.0,
+        "importacion": 1844.9
+    },
+    {
+        "fecha": "2024-08-17T05:50:00.000-0300",
+        "sumTotal": 14230.5,
+        "hidraulico": 1984.7,
+        "termico": 7766.8,
+        "nuclear": 1017.3,
+        "renovable": 1636.8,
+        "importacion": 1824.9
+    },
+    {
+        "fecha": "2024-08-17T05:55:00.000-0300",
+        "sumTotal": 14258.3,
+        "hidraulico": 1977.6,
+        "termico": 7779.8,
+        "nuclear": 1017.4,
+        "renovable": 1623.8,
+        "importacion": 1859.7
+    },
+    {
+        "fecha": "2024-08-17T06:00:00.000-0300",
+        "sumTotal": 14235.2,
+        "hidraulico": 1958.4,
+        "termico": 7755.4,
+        "nuclear": 1017.6,
+        "renovable": 1606.2,
+        "importacion": 1897.6
+    },
+    {
+        "fecha": "2024-08-17T06:05:00.000-0300",
+        "sumTotal": 14284.4,
+        "hidraulico": 1966.7,
+        "termico": 7766.1,
+        "nuclear": 1017.1,
+        "renovable": 1606.1,
+        "importacion": 1928.4
+    },
+    {
+        "fecha": "2024-08-17T06:10:00.000-0300",
+        "sumTotal": 14314.1,
+        "hidraulico": 1935.7,
+        "termico": 7762.3,
+        "nuclear": 1015.8,
+        "renovable": 1598.0,
+        "importacion": 2002.3
+    },
+    {
+        "fecha": "2024-08-17T06:15:00.000-0300",
+        "sumTotal": 14340.4,
+        "hidraulico": 1942.8,
+        "termico": 7798.9,
+        "nuclear": 1023.5,
+        "renovable": 1601.3,
+        "importacion": 1973.9
+    },
+    {
+        "fecha": "2024-08-17T06:20:00.000-0300",
+        "sumTotal": 14349.4,
+        "hidraulico": 2124.4,
+        "termico": 7769.1,
+        "nuclear": 1020.7,
+        "renovable": 1618.2,
+        "importacion": 1817.0
+    },
+    {
+        "fecha": "2024-08-17T06:25:00.000-0300",
+        "sumTotal": 14268.1,
+        "hidraulico": 2203.3,
+        "termico": 7757.0,
+        "nuclear": 1017.1,
+        "renovable": 1603.7,
+        "importacion": 1687.0
+    },
+    {
+        "fecha": "2024-08-17T06:30:00.000-0300",
+        "sumTotal": 14303.8,
+        "hidraulico": 2431.5,
+        "termico": 7745.3,
+        "nuclear": 1019.5,
+        "renovable": 1586.0,
+        "importacion": 1521.5
+    },
+    {
+        "fecha": "2024-08-17T06:35:00.000-0300",
+        "sumTotal": 14388.0,
+        "hidraulico": 2502.3,
+        "termico": 7762.0,
+        "nuclear": 1022.5,
+        "renovable": 1567.2,
+        "importacion": 1534.0
+    },
+    {
+        "fecha": "2024-08-17T06:40:00.000-0300",
+        "sumTotal": 14395.8,
+        "hidraulico": 2578.7,
+        "termico": 7738.8,
+        "nuclear": 1017.2,
+        "renovable": 1549.6,
+        "importacion": 1511.5
+    },
+    {
+        "fecha": "2024-08-17T06:45:00.000-0300",
+        "sumTotal": 14398.8,
+        "hidraulico": 2482.1,
+        "termico": 7855.6,
+        "nuclear": 1018.7,
+        "renovable": 1540.0,
+        "importacion": 1502.4
+    },
+    {
+        "fecha": "2024-08-17T06:50:00.000-0300",
+        "sumTotal": 14527.3,
+        "hidraulico": 2510.8,
+        "termico": 7961.6,
+        "nuclear": 1022.3,
+        "renovable": 1562.7,
+        "importacion": 1469.9
+    },
+    {
+        "fecha": "2024-08-17T06:55:00.000-0300",
+        "sumTotal": 14481.7,
+        "hidraulico": 2493.5,
+        "termico": 7963.1,
+        "nuclear": 1024.5,
+        "renovable": 1580.6,
+        "importacion": 1420.0
+    },
+    {
+        "fecha": "2024-08-17T07:00:00.000-0300",
+        "sumTotal": 14561.5,
+        "hidraulico": 2522.0,
+        "termico": 8017.3,
+        "nuclear": 1020.9,
+        "renovable": 1574.5,
+        "importacion": 1426.8
+    },
+    {
+        "fecha": "2024-08-17T07:05:00.000-0300",
+        "sumTotal": 14612.4,
+        "hidraulico": 2491.0,
+        "termico": 8069.4,
+        "nuclear": 1021.7,
+        "renovable": 1551.2,
+        "importacion": 1479.1
+    },
+    {
+        "fecha": "2024-08-17T07:10:00.000-0300",
+        "sumTotal": 14658.5,
+        "hidraulico": 2522.4,
+        "termico": 8079.4,
+        "nuclear": 1015.1,
+        "renovable": 1557.6,
+        "importacion": 1484.0
+    },
+    {
+        "fecha": "2024-08-17T07:15:00.000-0300",
+        "sumTotal": 14631.1,
+        "hidraulico": 2492.5,
+        "termico": 8083.6,
+        "nuclear": 1015.2,
+        "renovable": 1538.5,
+        "importacion": 1501.3
+    },
+    {
+        "fecha": "2024-08-17T07:20:00.000-0300",
+        "sumTotal": 14639.9,
+        "hidraulico": 2479.7,
+        "termico": 8130.1,
+        "nuclear": 1018.2,
+        "renovable": 1509.3,
+        "importacion": 1502.6
+    },
+    {
+        "fecha": "2024-08-17T07:25:00.000-0300",
+        "sumTotal": 14695.7,
+        "hidraulico": 2524.3,
+        "termico": 8173.8,
+        "nuclear": 1019.7,
+        "renovable": 1503.3,
+        "importacion": 1474.6
+    },
+    {
+        "fecha": "2024-08-17T07:30:00.000-0300",
+        "sumTotal": 14469.7,
+        "hidraulico": 2299.7,
+        "termico": 8189.5,
+        "nuclear": 1017.8,
+        "renovable": 1489.9,
+        "importacion": 1472.8
+    },
+    {
+        "fecha": "2024-08-17T07:35:00.000-0300",
+        "sumTotal": 14497.8,
+        "hidraulico": 2327.4,
+        "termico": 8234.2,
+        "nuclear": 1021.2,
+        "renovable": 1423.2,
+        "importacion": 1491.8
+    },
+    {
+        "fecha": "2024-08-17T07:40:00.000-0300",
+        "sumTotal": 14437.9,
+        "hidraulico": 2340.4,
+        "termico": 8205.2,
+        "nuclear": 1025.8,
+        "renovable": 1406.6,
+        "importacion": 1459.9
+    },
+    {
+        "fecha": "2024-08-17T07:45:00.000-0300",
+        "sumTotal": 14345.6,
+        "hidraulico": 2321.9,
+        "termico": 8191.8,
+        "nuclear": 1021.8,
+        "renovable": 1400.4,
+        "importacion": 1409.7
+    },
+    {
+        "fecha": "2024-08-17T07:50:00.000-0300",
+        "sumTotal": 14323.4,
+        "hidraulico": 2330.2,
+        "termico": 8162.8,
+        "nuclear": 1016.1,
+        "renovable": 1392.6,
+        "importacion": 1421.7
+    },
+    {
+        "fecha": "2024-08-17T07:55:00.000-0300",
+        "sumTotal": 14231.5,
+        "hidraulico": 2324.8,
+        "termico": 8119.9,
+        "nuclear": 1022.5,
+        "renovable": 1387.8,
+        "importacion": 1376.5
+    },
+    {
+        "fecha": "2024-08-17T08:00:00.000-0300",
+        "sumTotal": 14168.2,
+        "hidraulico": 2308.3,
+        "termico": 8086.2,
+        "nuclear": 1020.8,
+        "renovable": 1406.4,
+        "importacion": 1346.5
+    },
+    {
+        "fecha": "2024-08-17T08:05:00.000-0300",
+        "sumTotal": 14279.7,
+        "hidraulico": 2328.0,
+        "termico": 8132.7,
+        "nuclear": 1016.7,
+        "renovable": 1430.4,
+        "importacion": 1371.9
+    },
+    {
+        "fecha": "2024-08-17T08:10:00.000-0300",
+        "sumTotal": 14319.2,
+        "hidraulico": 2330.0,
+        "termico": 8164.2,
+        "nuclear": 1024.1,
+        "renovable": 1444.1,
+        "importacion": 1356.8
+    },
+    {
+        "fecha": "2024-08-17T08:15:00.000-0300",
+        "sumTotal": 14394.3,
+        "hidraulico": 2338.8,
+        "termico": 8199.1,
+        "nuclear": 1024.1,
+        "renovable": 1469.5,
+        "importacion": 1362.8
+    },
+    {
+        "fecha": "2024-08-17T08:20:00.000-0300",
+        "sumTotal": 14428.6,
+        "hidraulico": 2318.4,
+        "termico": 8176.9,
+        "nuclear": 1020.4,
+        "renovable": 1508.8,
+        "importacion": 1404.1
+    },
+    {
+        "fecha": "2024-08-17T08:25:00.000-0300",
+        "sumTotal": 14476.6,
+        "hidraulico": 2353.9,
+        "termico": 8192.1,
+        "nuclear": 1018.6,
+        "renovable": 1537.9,
+        "importacion": 1374.1
+    },
+    {
+        "fecha": "2024-08-17T08:30:00.000-0300",
+        "sumTotal": 14545.5,
+        "hidraulico": 2370.6,
+        "termico": 8204.5,
+        "nuclear": 1022.4,
+        "renovable": 1583.1,
+        "importacion": 1364.9
+    },
+    {
+        "fecha": "2024-08-17T08:35:00.000-0300",
+        "sumTotal": 14883.2,
+        "hidraulico": 2625.0,
+        "termico": 8195.5,
+        "nuclear": 1020.7,
+        "renovable": 1657.4,
+        "importacion": 1384.6
+    },
+    {
+        "fecha": "2024-08-17T08:40:00.000-0300",
+        "sumTotal": 14916.2,
+        "hidraulico": 2597.8,
+        "termico": 8215.0,
+        "nuclear": 1018.8,
+        "renovable": 1702.3,
+        "importacion": 1382.3
+    },
+    {
+        "fecha": "2024-08-17T08:45:00.000-0300",
+        "sumTotal": 14990.2,
+        "hidraulico": 2621.6,
+        "termico": 8215.9,
+        "nuclear": 1018.2,
+        "renovable": 1749.8,
+        "importacion": 1384.7
+    },
+    {
+        "fecha": "2024-08-17T08:50:00.000-0300",
+        "sumTotal": 15092.6,
+        "hidraulico": 2654.4,
+        "termico": 8222.0,
+        "nuclear": 1022.8,
+        "renovable": 1802.5,
+        "importacion": 1390.9
+    },
+    {
+        "fecha": "2024-08-17T08:55:00.000-0300",
+        "sumTotal": 15130.1,
+        "hidraulico": 2462.6,
+        "termico": 8417.4,
+        "nuclear": 1023.6,
+        "renovable": 1854.3,
+        "importacion": 1372.2
+    },
+    {
+        "fecha": "2024-08-17T09:00:00.000-0300",
+        "sumTotal": 15235.3,
+        "hidraulico": 2432.6,
+        "termico": 8555.0,
+        "nuclear": 1016.4,
+        "renovable": 1893.1,
+        "importacion": 1338.2
+    },
+    {
+        "fecha": "2024-08-17T09:05:00.000-0300",
+        "sumTotal": 15388.7,
+        "hidraulico": 2533.9,
+        "termico": 8603.7,
+        "nuclear": 1020.2,
+        "renovable": 1918.6,
+        "importacion": 1312.3
+    },
+    {
+        "fecha": "2024-08-17T09:10:00.000-0300",
+        "sumTotal": 15501.3,
+        "hidraulico": 2606.8,
+        "termico": 8614.4,
+        "nuclear": 1024.9,
+        "renovable": 1962.5,
+        "importacion": 1292.7
+    },
+    {
+        "fecha": "2024-08-17T09:15:00.000-0300",
+        "sumTotal": 15564.5,
+        "hidraulico": 2636.6,
+        "termico": 8642.6,
+        "nuclear": 1019.6,
+        "renovable": 1990.8,
+        "importacion": 1274.9
+    },
+    {
+        "fecha": "2024-08-17T09:20:00.000-0300",
+        "sumTotal": 15632.0,
+        "hidraulico": 2616.4,
+        "termico": 8692.5,
+        "nuclear": 1017.9,
+        "renovable": 2037.3,
+        "importacion": 1267.9
+    },
+    {
+        "fecha": "2024-08-17T09:25:00.000-0300",
+        "sumTotal": 15744.6,
+        "hidraulico": 2688.4,
+        "termico": 8743.2,
+        "nuclear": 1015.9,
+        "renovable": 2048.5,
+        "importacion": 1248.6
+    },
+    {
+        "fecha": "2024-08-17T09:30:00.000-0300",
+        "sumTotal": 15839.5,
+        "hidraulico": 2699.0,
+        "termico": 8797.0,
+        "nuclear": 1017.4,
+        "renovable": 2072.8,
+        "importacion": 1253.3
+    },
+    {
+        "fecha": "2024-08-17T09:35:00.000-0300",
+        "sumTotal": 15852.8,
+        "hidraulico": 2635.0,
+        "termico": 8841.0,
+        "nuclear": 1019.9,
+        "renovable": 2103.1,
+        "importacion": 1253.8
+    },
+    {
+        "fecha": "2024-08-17T09:40:00.000-0300",
+        "sumTotal": 15821.7,
+        "hidraulico": 2625.4,
+        "termico": 8814.8,
+        "nuclear": 1023.0,
+        "renovable": 2102.9,
+        "importacion": 1255.6
+    },
+    {
+        "fecha": "2024-08-17T09:45:00.000-0300",
+        "sumTotal": 15776.7,
+        "hidraulico": 2501.2,
+        "termico": 8888.5,
+        "nuclear": 1020.2,
+        "renovable": 2141.6,
+        "importacion": 1225.2
+    },
+    {
+        "fecha": "2024-08-17T09:50:00.000-0300",
+        "sumTotal": 15839.9,
+        "hidraulico": 2506.5,
+        "termico": 8920.4,
+        "nuclear": 1020.2,
+        "renovable": 2151.3,
+        "importacion": 1241.5
+    },
+    {
+        "fecha": "2024-08-17T09:55:00.000-0300",
+        "sumTotal": 15856.0,
+        "hidraulico": 2495.5,
+        "termico": 8978.2,
+        "nuclear": 1025.5,
+        "renovable": 2129.1,
+        "importacion": 1227.7
+    },
+    {
+        "fecha": "2024-08-17T10:00:00.000-0300",
+        "sumTotal": 15914.7,
+        "hidraulico": 2528.5,
+        "termico": 9026.9,
+        "nuclear": 1018.6,
+        "renovable": 2121.4,
+        "importacion": 1219.3
+    },
+    {
+        "fecha": "2024-08-17T10:05:00.000-0300",
+        "sumTotal": 16003.9,
+        "hidraulico": 2570.7,
+        "termico": 9057.3,
+        "nuclear": 1021.5,
+        "renovable": 2114.5,
+        "importacion": 1239.9
+    },
+    {
+        "fecha": "2024-08-17T10:10:00.000-0300",
+        "sumTotal": 16039.0,
+        "hidraulico": 2600.2,
+        "termico": 9065.3,
+        "nuclear": 1021.4,
+        "renovable": 2106.2,
+        "importacion": 1245.9
+    },
+    {
+        "fecha": "2024-08-17T10:15:00.000-0300",
+        "sumTotal": 16066.1,
+        "hidraulico": 2620.0,
+        "termico": 9074.5,
+        "nuclear": 1022.9,
+        "renovable": 2106.7,
+        "importacion": 1242.0
+    },
+    {
+        "fecha": "2024-08-17T10:20:00.000-0300",
+        "sumTotal": 16116.1,
+        "hidraulico": 2668.9,
+        "termico": 9067.9,
+        "nuclear": 1022.2,
+        "renovable": 2094.7,
+        "importacion": 1262.4
+    },
+    {
+        "fecha": "2024-08-17T10:25:00.000-0300",
+        "sumTotal": 16143.1,
+        "hidraulico": 2742.1,
+        "termico": 9061.4,
+        "nuclear": 1020.0,
+        "renovable": 2067.9,
+        "importacion": 1251.7
+    },
+    {
+        "fecha": "2024-08-17T10:30:00.000-0300",
+        "sumTotal": 16173.4,
+        "hidraulico": 2803.9,
+        "termico": 9106.8,
+        "nuclear": 1017.5,
+        "renovable": 1997.1,
+        "importacion": 1248.1
+    },
+    {
+        "fecha": "2024-08-17T10:35:00.000-0300",
+        "sumTotal": 16183.3,
+        "hidraulico": 2837.3,
+        "termico": 9072.2,
+        "nuclear": 1021.0,
+        "renovable": 2000.2,
+        "importacion": 1252.6
+    },
+    {
+        "fecha": "2024-08-17T10:40:00.000-0300",
+        "sumTotal": 16187.7,
+        "hidraulico": 2850.2,
+        "termico": 9072.4,
+        "nuclear": 1024.1,
+        "renovable": 1987.9,
+        "importacion": 1253.1
+    },
+    {
+        "fecha": "2024-08-17T10:45:00.000-0300",
+        "sumTotal": 16196.6,
+        "hidraulico": 2837.9,
+        "termico": 9093.0,
+        "nuclear": 1018.0,
+        "renovable": 1987.7,
+        "importacion": 1260.0
+    },
+    {
+        "fecha": "2024-08-17T10:50:00.000-0300",
+        "sumTotal": 16204.6,
+        "hidraulico": 2852.2,
+        "termico": 9044.2,
+        "nuclear": 1022.1,
+        "renovable": 2012.6,
+        "importacion": 1273.5
+    },
+    {
+        "fecha": "2024-08-17T10:55:00.000-0300",
+        "sumTotal": 16225.0,
+        "hidraulico": 2838.6,
+        "termico": 9063.2,
+        "nuclear": 1017.4,
+        "renovable": 1999.1,
+        "importacion": 1306.7
+    },
+    {
+        "fecha": "2024-08-17T11:00:00.000-0300",
+        "sumTotal": 16215.3,
+        "hidraulico": 2864.0,
+        "termico": 9070.9,
+        "nuclear": 1016.7,
+        "renovable": 1999.6,
+        "importacion": 1264.1
+    },
+    {
+        "fecha": "2024-08-17T11:05:00.000-0300",
+        "sumTotal": 16217.2,
+        "hidraulico": 2854.9,
+        "termico": 9070.1,
+        "nuclear": 1016.9,
+        "renovable": 1996.7,
+        "importacion": 1278.6
+    },
+    {
+        "fecha": "2024-08-17T11:10:00.000-0300",
+        "sumTotal": 16182.3,
+        "hidraulico": 2817.5,
+        "termico": 9032.1,
+        "nuclear": 1020.6,
+        "renovable": 2012.9,
+        "importacion": 1299.2
+    },
+    {
+        "fecha": "2024-08-17T11:15:00.000-0300",
+        "sumTotal": 16186.8,
+        "hidraulico": 2815.0,
+        "termico": 9040.6,
+        "nuclear": 1017.8,
+        "renovable": 2027.5,
+        "importacion": 1285.9
+    },
+    {
+        "fecha": "2024-08-17T11:20:00.000-0300",
+        "sumTotal": 16217.4,
+        "hidraulico": 2829.3,
+        "termico": 9047.1,
+        "nuclear": 1021.4,
+        "renovable": 2035.8,
+        "importacion": 1283.8
+    },
+    {
+        "fecha": "2024-08-17T11:25:00.000-0300",
+        "sumTotal": 16224.3,
+        "hidraulico": 2815.6,
+        "termico": 9051.4,
+        "nuclear": 1020.1,
+        "renovable": 2033.2,
+        "importacion": 1304.0
+    },
+    {
+        "fecha": "2024-08-17T11:30:00.000-0300",
+        "sumTotal": 16216.8,
+        "hidraulico": 2803.3,
+        "termico": 9051.8,
+        "nuclear": 1018.8,
+        "renovable": 2035.0,
+        "importacion": 1307.9
+    },
+    {
+        "fecha": "2024-08-17T11:35:00.000-0300",
+        "sumTotal": 16213.7,
+        "hidraulico": 2812.5,
+        "termico": 8991.8,
+        "nuclear": 1014.7,
+        "renovable": 2067.7,
+        "importacion": 1327.0
+    },
+    {
+        "fecha": "2024-08-17T11:40:00.000-0300",
+        "sumTotal": 16207.9,
+        "hidraulico": 2799.7,
+        "termico": 8970.8,
+        "nuclear": 1017.8,
+        "renovable": 2082.8,
+        "importacion": 1336.8
+    },
+    {
+        "fecha": "2024-08-17T11:45:00.000-0300",
+        "sumTotal": 16186.3,
+        "hidraulico": 2744.0,
+        "termico": 9018.1,
+        "nuclear": 1018.7,
+        "renovable": 2063.1,
+        "importacion": 1342.4
+    },
+    {
+        "fecha": "2024-08-17T11:50:00.000-0300",
+        "sumTotal": 16211.0,
+        "hidraulico": 2738.1,
+        "termico": 9021.6,
+        "nuclear": 1015.2,
+        "renovable": 2058.1,
+        "importacion": 1378.0
+    },
+    {
+        "fecha": "2024-08-17T11:55:00.000-0300",
+        "sumTotal": 16224.5,
+        "hidraulico": 2739.0,
+        "termico": 9022.3,
+        "nuclear": 1019.1,
+        "renovable": 2056.8,
+        "importacion": 1387.3
+    },
+    {
+        "fecha": "2024-08-17T12:00:00.000-0300",
+        "sumTotal": 16245.1,
+        "hidraulico": 2764.8,
+        "termico": 9039.3,
+        "nuclear": 1014.0,
+        "renovable": 2020.8,
+        "importacion": 1406.2
+    },
+    {
+        "fecha": "2024-08-17T12:05:00.000-0300",
+        "sumTotal": 16205.8,
+        "hidraulico": 2719.6,
+        "termico": 9029.2,
+        "nuclear": 1015.8,
+        "renovable": 2026.0,
+        "importacion": 1415.2
+    },
+    {
+        "fecha": "2024-08-17T12:10:00.000-0300",
+        "sumTotal": 16134.7,
+        "hidraulico": 2668.6,
+        "termico": 9005.3,
+        "nuclear": 1019.3,
+        "renovable": 2032.5,
+        "importacion": 1409.0
+    },
+    {
+        "fecha": "2024-08-17T12:15:00.000-0300",
+        "sumTotal": 16151.6,
+        "hidraulico": 2630.5,
+        "termico": 9015.0,
+        "nuclear": 1016.7,
+        "renovable": 2054.7,
+        "importacion": 1434.7
+    },
+    {
+        "fecha": "2024-08-17T12:20:00.000-0300",
+        "sumTotal": 16195.9,
+        "hidraulico": 2641.7,
+        "termico": 8995.0,
+        "nuclear": 1020.2,
+        "renovable": 2090.2,
+        "importacion": 1448.8
+    },
+    {
+        "fecha": "2024-08-17T12:25:00.000-0300",
+        "sumTotal": 16179.9,
+        "hidraulico": 2625.9,
+        "termico": 8973.5,
+        "nuclear": 1019.5,
+        "renovable": 2101.7,
+        "importacion": 1459.3
+    },
+    {
+        "fecha": "2024-08-17T12:30:00.000-0300",
+        "sumTotal": 16152.5,
+        "hidraulico": 2620.9,
+        "termico": 8976.1,
+        "nuclear": 1023.0,
+        "renovable": 2063.6,
+        "importacion": 1468.9
+    },
+    {
+        "fecha": "2024-08-17T12:35:00.000-0300",
+        "sumTotal": 16157.0,
+        "hidraulico": 2682.0,
+        "termico": 8914.1,
+        "nuclear": 1018.6,
+        "renovable": 2048.3,
+        "importacion": 1494.0
+    },
+    {
+        "fecha": "2024-08-17T12:40:00.000-0300",
+        "sumTotal": 16102.9,
+        "hidraulico": 2690.8,
+        "termico": 8838.8,
+        "nuclear": 1019.9,
+        "renovable": 2060.0,
+        "importacion": 1493.4
+    },
+    {
+        "fecha": "2024-08-17T12:45:00.000-0300",
+        "sumTotal": 16119.5,
+        "hidraulico": 2755.3,
+        "termico": 8810.5,
+        "nuclear": 1016.5,
+        "renovable": 2027.2,
+        "importacion": 1510.0
+    },
+    {
+        "fecha": "2024-08-17T12:50:00.000-0300",
+        "sumTotal": 16107.3,
+        "hidraulico": 2785.9,
+        "termico": 8764.6,
+        "nuclear": 1016.1,
+        "renovable": 2044.1,
+        "importacion": 1496.6
+    },
+    {
+        "fecha": "2024-08-17T12:55:00.000-0300",
+        "sumTotal": 16083.1,
+        "hidraulico": 2776.8,
+        "termico": 8726.8,
+        "nuclear": 1016.2,
+        "renovable": 2031.9,
+        "importacion": 1531.4
+    },
+    {
+        "fecha": "2024-08-17T13:00:00.000-0300",
+        "sumTotal": 16050.2,
+        "hidraulico": 2744.4,
+        "termico": 8702.6,
+        "nuclear": 1015.3,
+        "renovable": 2037.8,
+        "importacion": 1550.1
+    },
+    {
+        "fecha": "2024-08-17T13:05:00.000-0300",
+        "sumTotal": 15993.6,
+        "hidraulico": 2689.1,
+        "termico": 8700.7,
+        "nuclear": 1017.7,
+        "renovable": 2026.2,
+        "importacion": 1559.9
+    },
+    {
+        "fecha": "2024-08-17T13:10:00.000-0300",
+        "sumTotal": 15966.4,
+        "hidraulico": 2650.1,
+        "termico": 8680.4,
+        "nuclear": 1018.3,
+        "renovable": 2047.2,
+        "importacion": 1570.4
+    },
+    {
+        "fecha": "2024-08-17T13:15:00.000-0300",
+        "sumTotal": 15965.2,
+        "hidraulico": 2645.9,
+        "termico": 8649.7,
+        "nuclear": 1011.3,
+        "renovable": 2088.3,
+        "importacion": 1570.0
+    },
+    {
+        "fecha": "2024-08-17T13:20:00.000-0300",
+        "sumTotal": 15948.9,
+        "hidraulico": 2644.8,
+        "termico": 8626.8,
+        "nuclear": 1012.1,
+        "renovable": 2085.8,
+        "importacion": 1579.4
+    },
+    {
+        "fecha": "2024-08-17T13:25:00.000-0300",
+        "sumTotal": 15898.2,
+        "hidraulico": 2634.1,
+        "termico": 8613.5,
+        "nuclear": 1013.4,
+        "renovable": 2098.4,
+        "importacion": 1538.8
+    },
+    {
+        "fecha": "2024-08-17T13:30:00.000-0300",
+        "sumTotal": 15834.5,
+        "hidraulico": 2618.9,
+        "termico": 8570.5,
+        "nuclear": 1011.9,
+        "renovable": 2105.2,
+        "importacion": 1528.0
+    },
+    {
+        "fecha": "2024-08-17T13:35:00.000-0300",
+        "sumTotal": 15773.7,
+        "hidraulico": 2463.7,
+        "termico": 8632.3,
+        "nuclear": 1018.1,
+        "renovable": 2080.8,
+        "importacion": 1578.8
+    },
+    {
+        "fecha": "2024-08-17T13:40:00.000-0300",
+        "sumTotal": 15773.5,
+        "hidraulico": 2465.4,
+        "termico": 8621.1,
+        "nuclear": 1020.6,
+        "renovable": 2076.9,
+        "importacion": 1589.5
+    },
+    {
+        "fecha": "2024-08-17T13:45:00.000-0300",
+        "sumTotal": 15720.9,
+        "hidraulico": 2454.8,
+        "termico": 8600.4,
+        "nuclear": 1022.3,
+        "renovable": 2074.3,
+        "importacion": 1569.1
+    },
+    {
+        "fecha": "2024-08-17T13:50:00.000-0300",
+        "sumTotal": 15681.5,
+        "hidraulico": 2478.4,
+        "termico": 8514.0,
+        "nuclear": 1017.0,
+        "renovable": 2097.2,
+        "importacion": 1574.9
+    },
+    {
+        "fecha": "2024-08-17T13:55:00.000-0300",
+        "sumTotal": 15620.3,
+        "hidraulico": 2493.7,
+        "termico": 8383.0,
+        "nuclear": 1020.1,
+        "renovable": 2091.0,
+        "importacion": 1632.5
+    },
+    {
+        "fecha": "2024-08-17T14:00:00.000-0300",
+        "sumTotal": 15582.4,
+        "hidraulico": 2466.7,
+        "termico": 8341.4,
+        "nuclear": 1018.0,
+        "renovable": 2088.0,
+        "importacion": 1668.3
+    },
+    {
+        "fecha": "2024-08-17T14:05:00.000-0300",
+        "sumTotal": 15548.1,
+        "hidraulico": 2503.8,
+        "termico": 8281.0,
+        "nuclear": 1019.8,
+        "renovable": 2083.4,
+        "importacion": 1660.1
+    },
+    {
+        "fecha": "2024-08-17T14:10:00.000-0300",
+        "sumTotal": 15515.6,
+        "hidraulico": 2519.3,
+        "termico": 8246.7,
+        "nuclear": 1019.2,
+        "renovable": 2073.8,
+        "importacion": 1656.6
+    },
+    {
+        "fecha": "2024-08-17T14:15:00.000-0300",
+        "sumTotal": 15503.1,
+        "hidraulico": 2507.8,
+        "termico": 8257.5,
+        "nuclear": 1015.9,
+        "renovable": 2077.8,
+        "importacion": 1644.1
+    },
+    {
+        "fecha": "2024-08-17T14:20:00.000-0300",
+        "sumTotal": 15446.4,
+        "hidraulico": 2485.1,
+        "termico": 8253.8,
+        "nuclear": 1011.3,
+        "renovable": 2035.2,
+        "importacion": 1661.0
+    },
+    {
+        "fecha": "2024-08-17T14:25:00.000-0300",
+        "sumTotal": 15376.4,
+        "hidraulico": 2465.9,
+        "termico": 8201.4,
+        "nuclear": 1013.0,
+        "renovable": 2053.1,
+        "importacion": 1643.0
+    },
+    {
+        "fecha": "2024-08-17T14:30:00.000-0300",
+        "sumTotal": 15329.6,
+        "hidraulico": 2460.5,
+        "termico": 8180.0,
+        "nuclear": 1017.6,
+        "renovable": 2065.2,
+        "importacion": 1606.3
+    },
+    {
+        "fecha": "2024-08-17T14:35:00.000-0300",
+        "sumTotal": 15291.7,
+        "hidraulico": 2474.1,
+        "termico": 8179.1,
+        "nuclear": 1018.2,
+        "renovable": 2033.4,
+        "importacion": 1586.9
+    },
+    {
+        "fecha": "2024-08-17T14:40:00.000-0300",
+        "sumTotal": 15234.0,
+        "hidraulico": 2339.0,
+        "termico": 8242.4,
+        "nuclear": 1012.8,
+        "renovable": 2073.3,
+        "importacion": 1566.5
+    },
+    {
+        "fecha": "2024-08-17T14:45:00.000-0300",
+        "sumTotal": 15215.0,
+        "hidraulico": 2299.6,
+        "termico": 8243.7,
+        "nuclear": 1017.7,
+        "renovable": 2043.2,
+        "importacion": 1610.8
+    },
+    {
+        "fecha": "2024-08-17T14:50:00.000-0300",
+        "sumTotal": 15179.7,
+        "hidraulico": 2324.5,
+        "termico": 8160.0,
+        "nuclear": 1019.9,
+        "renovable": 2056.6,
+        "importacion": 1618.7
+    },
+    {
+        "fecha": "2024-08-17T14:55:00.000-0300",
+        "sumTotal": 15137.0,
+        "hidraulico": 2273.8,
+        "termico": 8205.1,
+        "nuclear": 1013.7,
+        "renovable": 2016.4,
+        "importacion": 1628.0
+    },
+    {
+        "fecha": "2024-08-17T15:00:00.000-0300",
+        "sumTotal": 15086.5,
+        "hidraulico": 2297.8,
+        "termico": 8158.7,
+        "nuclear": 1019.1,
+        "renovable": 2021.1,
+        "importacion": 1589.8
+    },
+    {
+        "fecha": "2024-08-17T15:05:00.000-0300",
+        "sumTotal": 15087.0,
+        "hidraulico": 2312.6,
+        "termico": 8124.7,
+        "nuclear": 1019.0,
+        "renovable": 2055.7,
+        "importacion": 1575.0
+    },
+    {
+        "fecha": "2024-08-17T15:10:00.000-0300",
+        "sumTotal": 14993.6,
+        "hidraulico": 2341.5,
+        "termico": 8192.4,
+        "nuclear": 1019.7,
+        "renovable": 2024.8,
+        "importacion": 1415.2
+    },
+    {
+        "fecha": "2024-08-17T15:15:00.000-0300",
+        "sumTotal": 14963.3,
+        "hidraulico": 2337.2,
+        "termico": 8164.9,
+        "nuclear": 1017.7,
+        "renovable": 2048.8,
+        "importacion": 1394.7
+    },
+    {
+        "fecha": "2024-08-17T15:20:00.000-0300",
+        "sumTotal": 14946.4,
+        "hidraulico": 2328.9,
+        "termico": 8175.2,
+        "nuclear": 1014.3,
+        "renovable": 2032.3,
+        "importacion": 1395.7
+    },
+    {
+        "fecha": "2024-08-17T15:25:00.000-0300",
+        "sumTotal": 14935.0,
+        "hidraulico": 2374.2,
+        "termico": 8101.9,
+        "nuclear": 1015.7,
+        "renovable": 2062.3,
+        "importacion": 1380.9
+    },
+    {
+        "fecha": "2024-08-17T15:30:00.000-0300",
+        "sumTotal": 14960.5,
+        "hidraulico": 2401.3,
+        "termico": 8128.8,
+        "nuclear": 1019.3,
+        "renovable": 2041.4,
+        "importacion": 1369.7
+    },
+    {
+        "fecha": "2024-08-17T15:35:00.000-0300",
+        "sumTotal": 15142.7,
+        "hidraulico": 2397.5,
+        "termico": 8249.6,
+        "nuclear": 1020.4,
+        "renovable": 2042.8,
+        "importacion": 1432.4
+    },
+    {
+        "fecha": "2024-08-17T15:40:00.000-0300",
+        "sumTotal": 15107.7,
+        "hidraulico": 2488.5,
+        "termico": 8239.0,
+        "nuclear": 1017.7,
+        "renovable": 1925.2,
+        "importacion": 1437.3
+    },
+    {
+        "fecha": "2024-08-17T15:45:00.000-0300",
+        "sumTotal": 15091.5,
+        "hidraulico": 2385.9,
+        "termico": 8243.4,
+        "nuclear": 1015.8,
+        "renovable": 2024.3,
+        "importacion": 1422.1
+    },
+    {
+        "fecha": "2024-08-17T15:50:00.000-0300",
+        "sumTotal": 15089.6,
+        "hidraulico": 2405.2,
+        "termico": 8235.1,
+        "nuclear": 1019.8,
+        "renovable": 2000.6,
+        "importacion": 1428.9
+    },
+    {
+        "fecha": "2024-08-17T15:55:00.000-0300",
+        "sumTotal": 15055.6,
+        "hidraulico": 2347.5,
+        "termico": 8261.2,
+        "nuclear": 1013.8,
+        "renovable": 1993.6,
+        "importacion": 1439.5
+    },
+    {
+        "fecha": "2024-08-17T16:00:00.000-0300",
+        "sumTotal": 15059.9,
+        "hidraulico": 2471.4,
+        "termico": 8165.4,
+        "nuclear": 1017.3,
+        "renovable": 1993.4,
+        "importacion": 1412.4
+    },
+    {
+        "fecha": "2024-08-17T16:05:00.000-0300",
+        "sumTotal": 15013.5,
+        "hidraulico": 2454.4,
+        "termico": 8172.6,
+        "nuclear": 1020.4,
+        "renovable": 1999.1,
+        "importacion": 1367.0
+    },
+    {
+        "fecha": "2024-08-17T16:10:00.000-0300",
+        "sumTotal": 15021.5,
+        "hidraulico": 2415.8,
+        "termico": 8219.2,
+        "nuclear": 1021.1,
+        "renovable": 1979.0,
+        "importacion": 1386.4
+    },
+    {
+        "fecha": "2024-08-17T16:15:00.000-0300",
+        "sumTotal": 14967.2,
+        "hidraulico": 2407.4,
+        "termico": 8186.7,
+        "nuclear": 1017.6,
+        "renovable": 1975.9,
+        "importacion": 1379.6
+    },
+    {
+        "fecha": "2024-08-17T16:20:00.000-0300",
+        "sumTotal": 14962.6,
+        "hidraulico": 2391.9,
+        "termico": 8168.3,
+        "nuclear": 1016.3,
+        "renovable": 2030.1,
+        "importacion": 1356.0
+    },
+    {
+        "fecha": "2024-08-17T16:25:00.000-0300",
+        "sumTotal": 14967.1,
+        "hidraulico": 2430.4,
+        "termico": 8147.2,
+        "nuclear": 1020.7,
+        "renovable": 2017.8,
+        "importacion": 1351.0
+    },
+    {
+        "fecha": "2024-08-17T16:30:00.000-0300",
+        "sumTotal": 14952.6,
+        "hidraulico": 2454.4,
+        "termico": 8088.6,
+        "nuclear": 1017.6,
+        "renovable": 2009.9,
+        "importacion": 1382.1
+    },
+    {
+        "fecha": "2024-08-17T16:35:00.000-0300",
+        "sumTotal": 14991.8,
+        "hidraulico": 2400.0,
+        "termico": 8094.6,
+        "nuclear": 1016.7,
+        "renovable": 2012.4,
+        "importacion": 1468.1
+    },
+    {
+        "fecha": "2024-08-17T16:40:00.000-0300",
+        "sumTotal": 14957.1,
+        "hidraulico": 2401.2,
+        "termico": 8095.8,
+        "nuclear": 1021.8,
+        "renovable": 1975.6,
+        "importacion": 1462.7
+    },
+    {
+        "fecha": "2024-08-17T16:45:00.000-0300",
+        "sumTotal": 14937.0,
+        "hidraulico": 2376.7,
+        "termico": 8058.1,
+        "nuclear": 1016.8,
+        "renovable": 1992.2,
+        "importacion": 1493.2
+    },
+    {
+        "fecha": "2024-08-17T16:50:00.000-0300",
+        "sumTotal": 14929.6,
+        "hidraulico": 2424.2,
+        "termico": 8018.7,
+        "nuclear": 1020.3,
+        "renovable": 2009.2,
+        "importacion": 1457.2
+    },
+    {
+        "fecha": "2024-08-17T16:55:00.000-0300",
+        "sumTotal": 14976.6,
+        "hidraulico": 2435.4,
+        "termico": 8073.0,
+        "nuclear": 1015.4,
+        "renovable": 1998.2,
+        "importacion": 1454.6
+    },
+    {
+        "fecha": "2024-08-17T17:00:00.000-0300",
+        "sumTotal": 14972.8,
+        "hidraulico": 2424.6,
+        "termico": 8078.9,
+        "nuclear": 1020.2,
+        "renovable": 1964.8,
+        "importacion": 1484.3
+    },
+    {
+        "fecha": "2024-08-17T17:05:00.000-0300",
+        "sumTotal": 14978.9,
+        "hidraulico": 2454.4,
+        "termico": 8076.9,
+        "nuclear": 1024.2,
+        "renovable": 1931.2,
+        "importacion": 1492.2
+    },
+    {
+        "fecha": "2024-08-17T17:10:00.000-0300",
+        "sumTotal": 15076.8,
+        "hidraulico": 2577.3,
+        "termico": 8112.9,
+        "nuclear": 1014.2,
+        "renovable": 1906.1,
+        "importacion": 1466.3
+    },
+    {
+        "fecha": "2024-08-17T17:15:00.000-0300",
+        "sumTotal": 15045.6,
+        "hidraulico": 2542.9,
+        "termico": 8117.4,
+        "nuclear": 1016.3,
+        "renovable": 1874.9,
+        "importacion": 1494.1
+    },
+    {
+        "fecha": "2024-08-17T17:20:00.000-0300",
+        "sumTotal": 15099.1,
+        "hidraulico": 2617.6,
+        "termico": 8067.9,
+        "nuclear": 1016.7,
+        "renovable": 1904.6,
+        "importacion": 1492.3
+    },
+    {
+        "fecha": "2024-08-17T17:25:00.000-0300",
+        "sumTotal": 15125.0,
+        "hidraulico": 2659.2,
+        "termico": 8088.6,
+        "nuclear": 1015.2,
+        "renovable": 1877.2,
+        "importacion": 1484.8
+    },
+    {
+        "fecha": "2024-08-17T17:30:00.000-0300",
+        "sumTotal": 15153.7,
+        "hidraulico": 2854.5,
+        "termico": 8110.2,
+        "nuclear": 1017.9,
+        "renovable": 1872.4,
+        "importacion": 1298.7
+    },
+    {
+        "fecha": "2024-08-17T17:35:00.000-0300",
+        "sumTotal": 15212.1,
+        "hidraulico": 2994.5,
+        "termico": 8344.9,
+        "nuclear": 1020.4,
+        "renovable": 1855.4,
+        "importacion": 996.9
+    },
+    {
+        "fecha": "2024-08-17T17:40:00.000-0300",
+        "sumTotal": 15211.1,
+        "hidraulico": 3033.4,
+        "termico": 8496.0,
+        "nuclear": 1020.6,
+        "renovable": 1848.1,
+        "importacion": 813.0
+    },
+    {
+        "fecha": "2024-08-17T17:45:00.000-0300",
+        "sumTotal": 15221.6,
+        "hidraulico": 3043.8,
+        "termico": 8662.6,
+        "nuclear": 1022.0,
+        "renovable": 1793.4,
+        "importacion": 699.8
+    },
+    {
+        "fecha": "2024-08-17T17:50:00.000-0300",
+        "sumTotal": 15465.1,
+        "hidraulico": 3353.1,
+        "termico": 8739.0,
+        "nuclear": 1019.5,
+        "renovable": 1759.8,
+        "importacion": 593.7
+    },
+    {
+        "fecha": "2024-08-17T17:55:00.000-0300",
+        "sumTotal": 15412.6,
+        "hidraulico": 3407.5,
+        "termico": 8784.3,
+        "nuclear": 1020.2,
+        "renovable": 1705.8,
+        "importacion": 494.8
+    },
+    {
+        "fecha": "2024-08-17T18:00:00.000-0300",
+        "sumTotal": 15279.4,
+        "hidraulico": 3319.5,
+        "termico": 8826.6,
+        "nuclear": 1021.8,
+        "renovable": 1647.8,
+        "importacion": 463.7
+    },
+    {
+        "fecha": "2024-08-17T18:05:00.000-0300",
+        "sumTotal": 15402.8,
+        "hidraulico": 3510.9,
+        "termico": 8875.9,
+        "nuclear": 1019.3,
+        "renovable": 1594.7,
+        "importacion": 402.0
+    },
+    {
+        "fecha": "2024-08-17T18:10:00.000-0300",
+        "sumTotal": 15496.2,
+        "hidraulico": 3687.6,
+        "termico": 8864.9,
+        "nuclear": 1021.8,
+        "renovable": 1540.7,
+        "importacion": 381.2
+    },
+    {
+        "fecha": "2024-08-17T18:15:00.000-0300",
+        "sumTotal": 15613.9,
+        "hidraulico": 3883.9,
+        "termico": 8867.9,
+        "nuclear": 1015.5,
+        "renovable": 1493.6,
+        "importacion": 353.0
+    },
+    {
+        "fecha": "2024-08-17T18:20:00.000-0300",
+        "sumTotal": 15741.6,
+        "hidraulico": 4055.8,
+        "termico": 8889.5,
+        "nuclear": 1022.8,
+        "renovable": 1460.2,
+        "importacion": 313.3
+    },
+    {
+        "fecha": "2024-08-17T18:25:00.000-0300",
+        "sumTotal": 15925.0,
+        "hidraulico": 4179.5,
+        "termico": 8998.8,
+        "nuclear": 1017.3,
+        "renovable": 1441.5,
+        "importacion": 287.9
+    },
+    {
+        "fecha": "2024-08-17T18:30:00.000-0300",
+        "sumTotal": 16128.2,
+        "hidraulico": 4253.7,
+        "termico": 9198.6,
+        "nuclear": 1016.6,
+        "renovable": 1393.6,
+        "importacion": 265.7
+    },
+    {
+        "fecha": "2024-08-17T18:35:00.000-0300",
+        "sumTotal": 16353.8,
+        "hidraulico": 4316.4,
+        "termico": 9392.5,
+        "nuclear": 1022.6,
+        "renovable": 1381.5,
+        "importacion": 240.8
+    },
+    {
+        "fecha": "2024-08-17T18:40:00.000-0300",
+        "sumTotal": 16486.6,
+        "hidraulico": 4350.9,
+        "termico": 9539.0,
+        "nuclear": 1014.5,
+        "renovable": 1358.7,
+        "importacion": 223.5
+    },
+    {
+        "fecha": "2024-08-17T18:45:00.000-0300",
+        "sumTotal": 16537.8,
+        "hidraulico": 4344.8,
+        "termico": 9615.1,
+        "nuclear": 1010.8,
+        "renovable": 1352.6,
+        "importacion": 214.5
+    },
+    {
+        "fecha": "2024-08-17T18:50:00.000-0300",
+        "sumTotal": 16737.6,
+        "hidraulico": 4482.6,
+        "termico": 9682.7,
+        "nuclear": 1016.0,
+        "renovable": 1354.1,
+        "importacion": 202.2
+    },
+    {
+        "fecha": "2024-08-17T18:55:00.000-0300",
+        "sumTotal": 16899.7,
+        "hidraulico": 4620.5,
+        "termico": 9722.2,
+        "nuclear": 1010.7,
+        "renovable": 1354.0,
+        "importacion": 192.3
+    },
+    {
+        "fecha": "2024-08-17T19:00:00.000-0300",
+        "sumTotal": 17119.6,
+        "hidraulico": 4753.4,
+        "termico": 9771.2,
+        "nuclear": 1015.9,
+        "renovable": 1370.3,
+        "importacion": 208.8
+    },
+    {
+        "fecha": "2024-08-17T19:05:00.000-0300",
+        "sumTotal": 17293.7,
+        "hidraulico": 4939.3,
+        "termico": 9773.7,
+        "nuclear": 1013.1,
+        "renovable": 1378.7,
+        "importacion": 188.9
+    },
+    {
+        "fecha": "2024-08-17T19:10:00.000-0300",
+        "sumTotal": 17518.0,
+        "hidraulico": 5138.0,
+        "termico": 9804.3,
+        "nuclear": 1008.0,
+        "renovable": 1373.5,
+        "importacion": 194.2
+    },
+    {
+        "fecha": "2024-08-17T19:15:00.000-0300",
+        "sumTotal": 17604.3,
+        "hidraulico": 5137.5,
+        "termico": 9804.4,
+        "nuclear": 1011.7,
+        "renovable": 1357.7,
+        "importacion": 293.0
+    },
+    {
+        "fecha": "2024-08-17T19:20:00.000-0300",
+        "sumTotal": 17690.0,
+        "hidraulico": 5057.5,
+        "termico": 9829.8,
+        "nuclear": 1016.1,
+        "renovable": 1373.5,
+        "importacion": 413.1
+    },
+    {
+        "fecha": "2024-08-17T19:25:00.000-0300",
+        "sumTotal": 17747.6,
+        "hidraulico": 5008.6,
+        "termico": 9845.0,
+        "nuclear": 1013.9,
+        "renovable": 1364.8,
+        "importacion": 515.3
+    },
+    {
+        "fecha": "2024-08-17T19:30:00.000-0300",
+        "sumTotal": 17861.4,
+        "hidraulico": 4936.2,
+        "termico": 9871.4,
+        "nuclear": 1017.2,
+        "renovable": 1412.3,
+        "importacion": 624.3
+    },
+    {
+        "fecha": "2024-08-17T19:35:00.000-0300",
+        "sumTotal": 17980.5,
+        "hidraulico": 4883.2,
+        "termico": 9853.4,
+        "nuclear": 1018.5,
+        "renovable": 1435.4,
+        "importacion": 790.0
+    },
+    {
+        "fecha": "2024-08-17T19:40:00.000-0300",
+        "sumTotal": 18023.7,
+        "hidraulico": 4847.6,
+        "termico": 9768.9,
+        "nuclear": 1016.7,
+        "renovable": 1477.3,
+        "importacion": 913.2
+    },
+    {
+        "fecha": "2024-08-17T19:45:00.000-0300",
+        "sumTotal": 18096.3,
+        "hidraulico": 4871.1,
+        "termico": 9732.2,
+        "nuclear": 1017.5,
+        "renovable": 1479.8,
+        "importacion": 995.7
+    },
+    {
+        "fecha": "2024-08-17T19:50:00.000-0300",
+        "sumTotal": 18076.2,
+        "hidraulico": 4804.7,
+        "termico": 9725.6,
+        "nuclear": 1015.6,
+        "renovable": 1518.3,
+        "importacion": 1012.0
+    },
+    {
+        "fecha": "2024-08-17T19:55:00.000-0300",
+        "sumTotal": 18119.0,
+        "hidraulico": 4784.0,
+        "termico": 9733.8,
+        "nuclear": 1013.5,
+        "renovable": 1549.8,
+        "importacion": 1037.9
+    },
+    {
+        "fecha": "2024-08-17T20:00:00.000-0300",
+        "sumTotal": 18119.4,
+        "hidraulico": 4768.7,
+        "termico": 9731.1,
+        "nuclear": 1014.7,
+        "renovable": 1560.7,
+        "importacion": 1044.2
+    },
+    {
+        "fecha": "2024-08-17T20:05:00.000-0300",
+        "sumTotal": 18176.3,
+        "hidraulico": 4695.0,
+        "termico": 9801.3,
+        "nuclear": 1015.3,
+        "renovable": 1536.9,
+        "importacion": 1127.8
+    },
+    {
+        "fecha": "2024-08-17T20:10:00.000-0300",
+        "sumTotal": 18184.7,
+        "hidraulico": 4732.6,
+        "termico": 9790.5,
+        "nuclear": 1013.8,
+        "renovable": 1508.7,
+        "importacion": 1139.1
+    },
+    {
+        "fecha": "2024-08-17T20:15:00.000-0300",
+        "sumTotal": 18238.8,
+        "hidraulico": 4749.6,
+        "termico": 9809.1,
+        "nuclear": 1018.3,
+        "renovable": 1503.1,
+        "importacion": 1158.7
+    },
+    {
+        "fecha": "2024-08-17T20:20:00.000-0300",
+        "sumTotal": 18279.3,
+        "hidraulico": 4777.3,
+        "termico": 9830.6,
+        "nuclear": 1017.0,
+        "renovable": 1508.5,
+        "importacion": 1145.9
+    },
+    {
+        "fecha": "2024-08-17T20:25:00.000-0300",
+        "sumTotal": 18342.4,
+        "hidraulico": 4835.3,
+        "termico": 9828.5,
+        "nuclear": 1015.7,
+        "renovable": 1517.2,
+        "importacion": 1145.7
+    },
+    {
+        "fecha": "2024-08-17T20:30:00.000-0300",
+        "sumTotal": 18366.5,
+        "hidraulico": 4785.7,
+        "termico": 9864.9,
+        "nuclear": 1021.9,
+        "renovable": 1532.5,
+        "importacion": 1161.5
+    },
+    {
+        "fecha": "2024-08-17T20:35:00.000-0300",
+        "sumTotal": 18319.5,
+        "hidraulico": 4712.7,
+        "termico": 9847.4,
+        "nuclear": 1018.3,
+        "renovable": 1579.5,
+        "importacion": 1161.6
+    },
+    {
+        "fecha": "2024-08-17T20:40:00.000-0300",
+        "sumTotal": 18362.6,
+        "hidraulico": 4741.3,
+        "termico": 9828.7,
+        "nuclear": 1016.0,
+        "renovable": 1621.4,
+        "importacion": 1155.2
+    },
+    {
+        "fecha": "2024-08-17T20:45:00.000-0300",
+        "sumTotal": 18365.2,
+        "hidraulico": 4751.4,
+        "termico": 9802.9,
+        "nuclear": 1018.7,
+        "renovable": 1624.5,
+        "importacion": 1167.7
+    },
+    {
+        "fecha": "2024-08-17T20:50:00.000-0300",
+        "sumTotal": 18389.2,
+        "hidraulico": 4789.2,
+        "termico": 9832.0,
+        "nuclear": 1017.7,
+        "renovable": 1574.1,
+        "importacion": 1176.2
+    },
+    {
+        "fecha": "2024-08-17T20:55:00.000-0300",
+        "sumTotal": 18394.1,
+        "hidraulico": 4860.8,
+        "termico": 9820.4,
+        "nuclear": 1017.4,
+        "renovable": 1525.6,
+        "importacion": 1169.9
+    },
+    {
+        "fecha": "2024-08-17T21:00:00.000-0300",
+        "sumTotal": 18400.7,
+        "hidraulico": 4926.5,
+        "termico": 9817.1,
+        "nuclear": 1017.6,
+        "renovable": 1467.1,
+        "importacion": 1172.4
+    },
+    {
+        "fecha": "2024-08-17T21:05:00.000-0300",
+        "sumTotal": 18316.1,
+        "hidraulico": 4917.2,
+        "termico": 9790.1,
+        "nuclear": 1013.5,
+        "renovable": 1419.5,
+        "importacion": 1175.8
+    },
+    {
+        "fecha": "2024-08-17T21:10:00.000-0300",
+        "sumTotal": 18330.6,
+        "hidraulico": 4981.0,
+        "termico": 9773.5,
+        "nuclear": 1018.5,
+        "renovable": 1384.3,
+        "importacion": 1173.3
+    },
+    {
+        "fecha": "2024-08-17T21:15:00.000-0300",
+        "sumTotal": 18291.7,
+        "hidraulico": 4975.0,
+        "termico": 9775.0,
+        "nuclear": 1017.0,
+        "renovable": 1330.3,
+        "importacion": 1194.4
+    },
+    {
+        "fecha": "2024-08-17T21:20:00.000-0300",
+        "sumTotal": 18252.3,
+        "hidraulico": 4966.3,
+        "termico": 9767.5,
+        "nuclear": 1018.2,
+        "renovable": 1304.3,
+        "importacion": 1196.0
+    },
+    {
+        "fecha": "2024-08-17T21:25:00.000-0300",
+        "sumTotal": 18267.7,
+        "hidraulico": 4982.9,
+        "termico": 9780.1,
+        "nuclear": 1017.0,
+        "renovable": 1281.8,
+        "importacion": 1205.9
+    },
+    {
+        "fecha": "2024-08-17T21:30:00.000-0300",
+        "sumTotal": 18189.0,
+        "hidraulico": 5002.7,
+        "termico": 9751.6,
+        "nuclear": 1015.3,
+        "renovable": 1212.4,
+        "importacion": 1207.0
+    },
+    {
+        "fecha": "2024-08-17T21:35:00.000-0300",
+        "sumTotal": 18176.2,
+        "hidraulico": 5014.7,
+        "termico": 9692.2,
+        "nuclear": 1020.9,
+        "renovable": 1221.1,
+        "importacion": 1227.3
+    },
+    {
+        "fecha": "2024-08-17T21:40:00.000-0300",
+        "sumTotal": 18104.6,
+        "hidraulico": 5026.3,
+        "termico": 9582.3,
+        "nuclear": 1015.6,
+        "renovable": 1222.8,
+        "importacion": 1257.6
+    },
+    {
+        "fecha": "2024-08-17T21:45:00.000-0300",
+        "sumTotal": 18080.1,
+        "hidraulico": 5144.7,
+        "termico": 9485.5,
+        "nuclear": 1017.1,
+        "renovable": 1182.9,
+        "importacion": 1249.9
+    },
+    {
+        "fecha": "2024-08-17T21:50:00.000-0300",
+        "sumTotal": 18003.0,
+        "hidraulico": 5091.4,
+        "termico": 9433.6,
+        "nuclear": 1016.6,
+        "renovable": 1199.9,
+        "importacion": 1261.5
+    },
+    {
+        "fecha": "2024-08-17T21:55:00.000-0300",
+        "sumTotal": 17950.3,
+        "hidraulico": 4980.4,
+        "termico": 9416.3,
+        "nuclear": 1014.9,
+        "renovable": 1247.8,
+        "importacion": 1290.9
+    },
+    {
+        "fecha": "2024-08-17T22:00:00.000-0300",
+        "sumTotal": 17867.8,
+        "hidraulico": 4836.7,
+        "termico": 9436.6,
+        "nuclear": 1015.6,
+        "renovable": 1285.3,
+        "importacion": 1293.6
+    },
+    {
+        "fecha": "2024-08-17T22:05:00.000-0300",
+        "sumTotal": 17816.4,
+        "hidraulico": 4733.1,
+        "termico": 9436.6,
+        "nuclear": 1020.7,
+        "renovable": 1306.4,
+        "importacion": 1319.6
+    },
+    {
+        "fecha": "2024-08-17T22:10:00.000-0300",
+        "sumTotal": 17757.3,
+        "hidraulico": 4690.4,
+        "termico": 9433.6,
+        "nuclear": 1011.6,
+        "renovable": 1313.6,
+        "importacion": 1308.1
+    },
+    {
+        "fecha": "2024-08-17T22:15:00.000-0300",
+        "sumTotal": 17625.8,
+        "hidraulico": 4536.5,
+        "termico": 9435.2,
+        "nuclear": 1019.1,
+        "renovable": 1319.7,
+        "importacion": 1315.3
+    },
+    {
+        "fecha": "2024-08-17T22:20:00.000-0300",
+        "sumTotal": 17596.9,
+        "hidraulico": 4493.1,
+        "termico": 9444.3,
+        "nuclear": 1018.7,
+        "renovable": 1327.3,
+        "importacion": 1313.5
+    },
+    {
+        "fecha": "2024-08-17T22:25:00.000-0300",
+        "sumTotal": 17633.1,
+        "hidraulico": 4534.0,
+        "termico": 9423.2,
+        "nuclear": 1018.0,
+        "renovable": 1317.1,
+        "importacion": 1340.8
+    },
+    {
+        "fecha": "2024-08-17T22:30:00.000-0300",
+        "sumTotal": 17619.3,
+        "hidraulico": 4565.1,
+        "termico": 9387.8,
+        "nuclear": 1022.1,
+        "renovable": 1297.2,
+        "importacion": 1347.1
+    },
+    {
+        "fecha": "2024-08-17T22:35:00.000-0300",
+        "sumTotal": 17407.9,
+        "hidraulico": 4243.2,
+        "termico": 9344.2,
+        "nuclear": 1017.3,
+        "renovable": 1291.3,
+        "importacion": 1511.9
+    },
+    {
+        "fecha": "2024-08-17T22:40:00.000-0300",
+        "sumTotal": 17409.1,
+        "hidraulico": 4157.9,
+        "termico": 9400.4,
+        "nuclear": 1016.0,
+        "renovable": 1291.8,
+        "importacion": 1543.0
+    },
+    {
+        "fecha": "2024-08-17T22:45:00.000-0300",
+        "sumTotal": 17312.3,
+        "hidraulico": 4100.0,
+        "termico": 9373.3,
+        "nuclear": 1023.4,
+        "renovable": 1266.8,
+        "importacion": 1548.8
+    },
+    {
+        "fecha": "2024-08-17T22:50:00.000-0300",
+        "sumTotal": 17275.8,
+        "hidraulico": 4089.1,
+        "termico": 9369.8,
+        "nuclear": 1012.3,
+        "renovable": 1248.2,
+        "importacion": 1556.4
+    },
+    {
+        "fecha": "2024-08-17T22:55:00.000-0300",
+        "sumTotal": 17237.5,
+        "hidraulico": 4069.8,
+        "termico": 9365.3,
+        "nuclear": 1012.0,
+        "renovable": 1236.5,
+        "importacion": 1553.9
+    },
+    {
+        "fecha": "2024-08-17T23:00:00.000-0300",
+        "sumTotal": 17178.3,
+        "hidraulico": 4061.3,
+        "termico": 9319.0,
+        "nuclear": 1013.0,
+        "renovable": 1219.3,
+        "importacion": 1565.7
+    },
+    {
+        "fecha": "2024-08-17T23:05:00.000-0300",
+        "sumTotal": 17126.2,
+        "hidraulico": 4081.0,
+        "termico": 9258.7,
+        "nuclear": 1015.5,
+        "renovable": 1190.5,
+        "importacion": 1580.5
+    },
+    {
+        "fecha": "2024-08-17T23:10:00.000-0300",
+        "sumTotal": 17095.5,
+        "hidraulico": 4206.9,
+        "termico": 9113.1,
+        "nuclear": 1016.8,
+        "renovable": 1173.8,
+        "importacion": 1584.9
+    },
+    {
+        "fecha": "2024-08-17T23:15:00.000-0300",
+        "sumTotal": 16989.4,
+        "hidraulico": 4199.1,
+        "termico": 9020.8,
+        "nuclear": 1021.9,
+        "renovable": 1159.3,
+        "importacion": 1588.3
+    },
+    {
+        "fecha": "2024-08-17T23:20:00.000-0300",
+        "sumTotal": 16817.5,
+        "hidraulico": 4172.3,
+        "termico": 8894.7,
+        "nuclear": 1024.1,
+        "renovable": 1126.1,
+        "importacion": 1600.3
+    },
+    {
+        "fecha": "2024-08-17T23:25:00.000-0300",
+        "sumTotal": 16748.4,
+        "hidraulico": 4231.0,
+        "termico": 8785.4,
+        "nuclear": 1024.3,
+        "renovable": 1099.0,
+        "importacion": 1608.7
+    }
+]
