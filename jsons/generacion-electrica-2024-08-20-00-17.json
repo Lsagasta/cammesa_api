@@ -1,0 +1,29 @@
+[
+    {
+        "fecha": "2024-08-20T00:00:00.000-0300",
+        "sumTotal": 18412.8,
+        "hidraulico": 4169.2,
+        "termico": 9215.6,
+        "nuclear": 1019.3,
+        "renovable": 1538.8,
+        "importacion": 2469.9
+    },
+    {
+        "fecha": "2024-08-20T00:05:00.000-0300",
+        "sumTotal": 18241.7,
+        "hidraulico": 3897.5,
+        "termico": 9107.4,
+        "nuclear": 1013.6,
+        "renovable": 1529.5,
+        "importacion": 2693.7
+    },
+    {
+        "fecha": "2024-08-20T00:10:00.000-0300",
+        "sumTotal": 18140.9,
+        "hidraulico": 3820.7,
+        "termico": 8936.4,
+        "nuclear": 1017.8,
+        "renovable": 1509.7,
+        "importacion": 2856.3
+    }
+]
